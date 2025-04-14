@@ -1,11 +1,7 @@
-# Overview
+## Author
+Иванов Иван, подгруппа 1
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+## Overview
+Программа генерирует массив случайных чисел и считает сумму элементов.
 
-# Usage
-
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
-
-# Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+## Usage
